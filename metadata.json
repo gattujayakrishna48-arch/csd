@@ -1,0 +1,6 @@
+{
+  "name": "Apex Institute of Technology - College Portal",
+  "description": "Comprehensive college web portal featuring public campus pages, student portal with attendance and marks, faculty and admin management, and complete Django full-stack project blueprint for B.Tech students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
